@@ -1,8 +1,8 @@
 name: iControlU
 main: icontrolu\iControlU
-version: 1.4
+version: 1.5
 author: Falkirks
-api: [3.0.0-ALPHA11]
+api: [3.0.0-ALPHA12]
 load: POSTWORLD
 commands:
  icu:
